@@ -14,8 +14,7 @@ jobs:
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
-      - name: Auto message for PR's and Issues
-        uses: thomasbnt/hello-to-news-contributions@v1.0
+      - uses: thomasbnt/hello-to-news-contributions@v1.0
         with:
           repo-token: ${{ secrets.GITHUB_TOKEN }}
           issue-message: "Hey, thank you for opening your first Issue ! 🚀 Feel free to add assignees and tags. Also don't forget to read our README.md for contribution guidelines!"
