@@ -1,3 +1,5 @@
+#WARNING: IF YOU'RE USING THIS TEMPLATE, SET UP YOUR BADGES MANUALLY IN shields.io
+
 <h1 align="center" style="color:white; background-color:black">[PROJECT NAME]</h1>
 <h4 align="center">[insert *brief* project description]</h4>
 
@@ -32,9 +34,9 @@
 </p>
 
 <p align="center">
-    <a href="#overview">Environment and Tools</a> •
-    <a href="#license">Steps to run and debug</a> •
-    <a href="#releases">How to contribute?</a> •
+    <a href="#environment-and-tools">Environment and Tools</a> •
+    <a href="#steps-to-run-and-debug">Steps to run and debug</a> •
+    <a href="#how-to-contribute">How to contribute?</a> •
 </p>
 
 ## Environment and tools
