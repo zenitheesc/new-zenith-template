@@ -16,7 +16,7 @@ jobs:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: thomasbnt/hello-to-news-contributions@v1.0
         with:
-          repo-token: ${{ secrets.GITHUB_TOKEN }}
+          repo-token: ${{ secrets.REPO_KEY }}
           issue-message: "Hey, thank you for opening your first Issue ! 🚀 Feel free to add assignees and tags. Also don't forget to read our README.md for contribution guidelines!"
           pr-message: "Hey, thank you for opening your first Pull Request ! 🚀 Don't forget to read our README.md for contribution guidelines"
 
