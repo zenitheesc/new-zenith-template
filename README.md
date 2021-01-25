@@ -1,4 +1,4 @@
-[Project Title]
+## [Project Title]
 
 `Add a **brief** description regarding the project and its development`
 
