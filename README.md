@@ -1,6 +1,41 @@
-## [Project Title]
+<h1 align="center" style="color:white; background-color:black">[PROJECT NAME]</h1>
+<h4 align="center">[insert *brief* project description]</h4>
 
-`Add a **brief** description regarding the project and its development`
+<p align="center">
+	<a href="http://zenith.eesc.usp.br/">
+    <img src="https://img.shields.io/badge/Zenith-Embarcados-black?style=for-the-badge"/>
+    </a>
+    <a href="https://eesc.usp.br/">
+    <img src="https://img.shields.io/badge/Linked%20to-EESC--USP-black?style=for-the-badge"/>
+    </a>
+    <a href="https://github.com/zenitheesc/new-zenith-template/blob/main/LICENSE">
+    <img src="https://img.shields.io/github/license/zenitheesc/new-zenith-template?style=for-the-badge"/>
+    </a>
+    <a href="https://github.com/zenitheesc/new-zenith-template/issues">
+    <img src="https://img.shields.io/github/issues/zenitheesc/new-zenith-template?style=for-the-badge"/>
+    </a>
+    <a href="https://github.com/zenitheesc/new-zenith-template/commits/main">
+    <img src="https://img.shields.io/github/commit-activity/m/zenitheesc/new-zenith-template?style=for-the-badge">
+    </a>
+    <a href="https://github.com/zenitheesc/new-zenith-template/graphs/contributors">
+    <img src="https://img.shields.io/github/contributors/zenitheesc/new-zenith-template?style=for-the-badge"/>
+    </a>
+    <a href="https://github.com/zenitheesc/new-zenith-template/commits/main">
+    <img src="https://img.shields.io/github/last-commit/zenitheesc/new-zenith-template?style=for-the-badge"/>
+    </a>
+    <a href="https://github.com/zenitheesc/new-zenith-template/issues">
+    <img src="https://img.shields.io/github/issues-raw/zenitheesc/new-zenith-template?style=for-the-badge" />
+    </a>
+    <a href="https://github.com/zenitheesc/new-zenith-template/pulls">
+    <img src = "https://img.shields.io/github/issues-pr-raw/zenitheesc/new-zenith-template?style=for-the-badge">
+    </a>
+</p>
+
+<p align="center">
+    <a href="#overview">Environment and Tools</a> •
+    <a href="#license">Steps to run and debug</a> •
+    <a href="#releases">How to contribute?</a> •
+</p>
 
 ## Environment and tools
 
@@ -10,7 +45,7 @@
 
 `A simple list of steps indicating how one can run and test the project.`
 
-## Guidelines for Collaboration
+## How to contribute
 
 `(optional, depends on the project) list of simple rules to help people work on the project.`
 
@@ -18,12 +53,20 @@
 
 ---
 
-### Contact Us
+<p align="center">
+    <a href="http://zenith.eesc.usp.br">
+    <img src="https://img.shields.io/badge/Check%20out-Zenith's Oficial Website-black?style=for-the-badge" />
+    </a> 
+    <a href="https://www.facebook.com/zenitheesc">
+    <img src="https://img.shields.io/badge/Like%20us%20on-facebook-blue?style=for-the-badge"/>
+    </a> 
+    <a href="https://www.instagram.com/zenith_eesc/">
+    <img src="https://img.shields.io/badge/Follow%20us%20on-Instagram-red?style=for-the-badge"/>
+    </a>
 
-[Zenith's Oficial Website](http://zenith.eesc.usp.br/wp/)
+</p>
+<p align = "center">
+<a href="zenith.eesc@gmail.com">zenith.eesc@gmail.com</a>
+</p>
 
-[Facebook](https://www.facebook.com/zenitheesc)
-
-[Instagram](https://www.instagram.com/zenith_eesc/)
-
-zenith.eesc@gmail.com
+[comment]: <IF YOU'RE USING THIS TEMPLATE, DELETE THE OLD BADGES AND CREATE NEW ONES ON shields.io>
