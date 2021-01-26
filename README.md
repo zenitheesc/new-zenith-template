@@ -1,3 +1,11 @@
+# How to use this template:
+
+**Delete** this file (README.md). Choose a template and **rename** it as 'README.md'
+
+For example: **Delete** this file and **rename** the "[TEMPLATE]README.md" to just "README.md". Wait a few minutes for the bot to process the changes and you're good to go 😃
+
+---
+
 <h1 align="center" style="color:white; background-color:black">[PROJECT NAME]</h1>
 <h4 align="center">[insert *brief* project description]</h4>
 
