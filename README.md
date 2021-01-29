@@ -1,8 +1,11 @@
 # How to use this template:
-1. Open the .github folder and edit the {nome-do-repositorio} space on  /workflows/dynamic-readme.yaml
-2. Click on the _actions_ tab and enable workflows on this repository
+When creating a new repository just select this template, or click on the green "use template" button
 
-3. **Delete** this file (README.md). Choose a template and **rename** it as 'README.md'
+![use-template-button](https://docs.github.com/assets/images/help/repository/use-this-template-button.png)
+
+[Adding the template to a NEW repository](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/creating-a-repository-from-a-template)
+
+**Delete** this file (README.md). Choose a template and **rename** it as 'README.md'
 
 	For example: **Delete** this file and **rename** the "[TEMPLATE]README.md" to just "README.md". Wait a few minutes for the bot to process the changes 	and you're good to go 😃
 	
