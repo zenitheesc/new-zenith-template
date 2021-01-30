@@ -5,6 +5,9 @@ When creating a new repository just select this template, or click on the green 
 
 [Adding the template to a NEW repository](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/creating-a-repository-from-a-template)
 
+Do **NOT** check "Include All Branches"
+
+
 **Delete** this file (README.md). Choose a template and **rename** it as 'README.md'
 
 	For example: **Delete** this file and **rename** the "[TEMPLATE]README.md" to just "README.md". Wait a few minutes for the bot to process the changes 	and you're good to go 😃
